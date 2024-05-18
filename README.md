@@ -13,3 +13,4 @@ to activate conda, but only from conda prompt
 jupyter notebook
 ```
 to start working
+no data
