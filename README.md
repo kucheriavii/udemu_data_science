@@ -14,3 +14,7 @@ jupyter notebook
 ```
 to start working
 no data
+
+
+# Lessons
+#### 5 | 008 Windows Environment Setup 
