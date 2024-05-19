@@ -18,3 +18,4 @@ no data
 
 # Lessons
 #### 5 | 008 Windows Environment Setup 
+* 19.05.2024 - no idea
