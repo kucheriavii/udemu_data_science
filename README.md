@@ -4,7 +4,7 @@
 to create envoirmant
 
 ```js
-conda activate C:\data_science\udemy_tuts\first\env
+
 ```
 to activate conda, but only from conda prompt
 
@@ -26,3 +26,4 @@ no data
 *22/05/2024 - no results
 *24/05/2024 - no results
 *25/05/2024 - no results
+### 26/05/2024 - 5 | 012 Jupyter Notebook Walkthrough 2
