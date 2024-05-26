@@ -32,3 +32,4 @@ no data
 ### 26/05/2024 - 6 | 003 Pandas Introduction
 ### 26/05/2024 - 6 | 004 Series, Data Frames and CSVs
 ### 26/05/2024 - 6 | 006 Describing Data with Pandas
+### 26/05/2024 - 6 | 007 Selecting and Viewing Data with Pandas
