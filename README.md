@@ -30,4 +30,4 @@ no data
 ### 26/05/2024 - 5 | 013 Jupyter Notebook Walkthrough 3
 ### 01/06/2024 - 6 | 001 Section Overview
 ### 26/05/2024 - 6 | 003 Pandas Introduction
-### 26/05/2024 - 6 | 007 Selecting and Viewing Data with Pandas
+### 26/05/2024 - 6 | 004 Series, Data Frames and CSVs.mp4
