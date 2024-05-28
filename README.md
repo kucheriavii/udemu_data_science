@@ -37,3 +37,4 @@ no data
 ### 27/05/2024 - 6 | 009 Manipulating Data
 ### 28/05/2024 - 6 | 010 Manipulating Data 2
 ### 28/05/2024 - 6 | 011 Manipulating Data 3
+### 28/05/2024 - 6 | 013 How To Download The Course Assignments
