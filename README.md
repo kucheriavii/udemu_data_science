@@ -33,6 +33,7 @@ no data
 ### 26/05/2024 - 6 | 004 Series, Data Frames and CSVs
 ### 26/05/2024 - 6 | 006 Describing Data with Pandas
 ### 26/05/2024 - 6 | 007 Selecting and Viewing Data with Pandas
-### 26/05/2024 - 6 | 008 Selecting and Viewing Data with Pandas Part 2
-### 26/05/2024 - 6 | 009 Manipulating Data
+### 27/05/2024 - 6 | 008 Selecting and Viewing Data with Pandas Part 2
+### 27/05/2024 - 6 | 009 Manipulating Data
 ### 28/05/2024 - 6 | 010 Manipulating Data 2
+### 28/05/2024 - 6 | 011 Manipulating Data 3
