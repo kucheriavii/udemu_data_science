@@ -40,3 +40,4 @@ no data
 ### 28/05/2024 - 6 | 013 How To Download The Course Assignments
 ### 29/05/2024 - 7 | 001 Section Overview
 ### 29/05/2024 - 7 | 002 NumPy Introduction
+### 30/05/2024 - nothing done
