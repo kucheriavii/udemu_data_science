@@ -41,3 +41,4 @@ no data
 ### 29/05/2024 - 7 | 001 Section Overview
 ### 29/05/2024 - 7 | 002 NumPy Introduction
 ### 30/05/2024 - nothing done
+### 31/05/2024 - nothing done
