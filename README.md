@@ -43,3 +43,4 @@ no data
 ### 30/05/2024 - nothing done
 ### 31/05/2024 - nothing done
 ### 01/06/2024 - 7 | 004 NumPy DataTypes and Attributes
+### 01/06/2024 - 7 | 005 Creating NumPy Arrays
