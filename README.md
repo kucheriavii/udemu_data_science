@@ -42,3 +42,4 @@ no data
 ### 29/05/2024 - 7 | 002 NumPy Introduction
 ### 30/05/2024 - nothing done
 ### 31/05/2024 - nothing done
+### 01/06/2024 - 7 | 004 NumPy DataTypes and Attributes
