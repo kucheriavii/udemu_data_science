@@ -44,9 +44,10 @@ no data
 ### 31/05/2024 - nothing done
 ### 01/06/2024 - 7 | 004 NumPy DataTypes and Attributes
 ### 01/06/2024 - 7 | 005 Creating NumPy Arrays
-### 01/06/2024 - 7 | 006 NumPy Random Seed
-### 01/06/2024 - 7 | 007 Viewing Arrays and Matrices
-### 01/06/2024 - 7 | 008 Manipulating Arrays
-### 01/06/2024 - 7 | 009 Manipulating Arrays 2
-### 01/06/2024 - 7 | 010 Standard Deviation and Variance
+### 02/06/2024 - 7 | 006 NumPy Random Seed
+### 02/06/2024 - 7 | 007 Viewing Arrays and Matrices
+### 02/06/2024 - 7 | 008 Manipulating Arrays
+### 02/06/2024 - 7 | 009 Manipulating Arrays 2
+### 02/06/2024 - 7 | 010 Standard Deviation and Variance
+### 02/06/2024 - 7 | 011 Reshape and Transpose
  
