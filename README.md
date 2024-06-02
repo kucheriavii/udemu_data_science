@@ -47,3 +47,4 @@ no data
 ### 01/06/2024 - 7 | 006 NumPy Random Seed
 ### 01/06/2024 - 7 | 007 Viewing Arrays and Matrices
 ### 01/06/2024 - 7 | 008 Manipulating Arrays
+### 01/06/2024 - 7 | 009 Manipulating Arrays 2
