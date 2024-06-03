@@ -51,5 +51,6 @@ no data
 ### 02/06/2024 - 7 | 010 Standard Deviation and Variance
 ### 02/06/2024 - 7 | 011 Reshape and Transpose
 ### 02/06/2024 - 7 | 012 Dot Product vs Element Wise
-### 02/06/2024 - 7 | 013 Exercise_ Nut Butter Store Sales 
-### 02/06/2024 - 7 | 014 Comparison Operators
+### 03/06/2024 - 7 | 013 Exercise_ Nut Butter Store Sales 
+### 03/06/2024 - 7 | 014 Comparison Operators
+### 03/06/2024 - 7 | 015 Sorting Arrays
