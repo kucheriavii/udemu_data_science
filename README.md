@@ -59,3 +59,8 @@ no data
 ### 03/06/2024 - 7 | practicing
 ### 06/06/2024 - 7 | nothing done 2
 ### 06/06/2024 - 7 | stressfull
+### 08/06/2024 - 8 | 003 Importing And Using Matplotlib
+### 08/06/2024 - 8 | 005 Scatter Plot And Bar Plot
+### 08/06/2024 - 8 | 006 Histograms And Subplots
+### 08/06/2024 - 8 | 007 Subplots Option 2
+### 08/06/2024 - 8 | 008 Quick Tip_ Data Visualizations 
