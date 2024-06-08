@@ -65,3 +65,4 @@ no data
 ### 08/06/2024 - 8 | 007 Subplots Option 2
 ### 08/06/2024 - 8 | 008 Quick Tip_ Data Visualizations
 ### 08/06/2024 - 8 | 009 Plotting From Pandas DataFrames
+### 08/06/2024 - 8 | 011 Plotting From Pandas DataFrames 2
