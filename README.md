@@ -68,3 +68,4 @@ no data
 ### 09/06/2024 - 8 | 011 Plotting From Pandas DataFrames 2
 ### 09/06/2024 - 8 | 012 Plotting from Pandas DataFrames 3
 ### 09/06/2024 - 8 | 014 Plotting from Pandas DataFrames 5
+### 09/06/2024 - 8 | 015 Plotting from Pandas DataFrames 6
