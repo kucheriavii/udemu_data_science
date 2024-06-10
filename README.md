@@ -69,3 +69,7 @@ no data
 ### 09/06/2024 - 8 | 012 Plotting from Pandas DataFrames 3
 ### 09/06/2024 - 8 | 014 Plotting from Pandas DataFrames 5
 ### 09/06/2024 - 8 | 015 Plotting from Pandas DataFrames 6
+### 09/06/2024 - 8 | 016 Plotting from Pandas DataFrames 7
+### 09/06/2024 - 8 | 017 Customizing Your Plots
+### 09/06/2024 - 8 | 019 Saving And Sharing Your Plots
+### 10/06/2024 - 8 | Just doing practice
