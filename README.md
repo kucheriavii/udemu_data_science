@@ -73,3 +73,4 @@ no data
 ### 09/06/2024 - 8 | 017 Customizing Your Plots
 ### 09/06/2024 - 8 | 019 Saving And Sharing Your Plots
 ### 10/06/2024 - 8 | Just doing practice
+### 11/06/2024 - 8 | Merge conflict
