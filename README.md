@@ -77,3 +77,4 @@ no data
 ### 12/06/2024 - 8 | nothing
 ### 12/06/2024 - 9 | 002 Scikit-learn Introduction
 ### 12/06/2024 - 9 | 006 Scikit-learn Cheatsheet
+### 12/06/2024 - 9 | 007 Typical scikit-learn Workflow
