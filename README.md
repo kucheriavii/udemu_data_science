@@ -75,3 +75,4 @@ no data
 ### 10/06/2024 - 8 | Just doing practice
 ### 11/06/2024 - 8 | Merge conflict
 ### 12/06/2024 - 8 | nothing
+### 12/06/2024 - 9 | 002 Scikit-learn Introduction
