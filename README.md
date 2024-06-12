@@ -76,3 +76,4 @@ no data
 ### 11/06/2024 - 8 | Merge conflict
 ### 12/06/2024 - 8 | nothing
 ### 12/06/2024 - 9 | 002 Scikit-learn Introduction
+### 12/06/2024 - 9 | 006 Scikit-learn Cheatsheet
