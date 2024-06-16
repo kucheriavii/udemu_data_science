@@ -81,3 +81,4 @@ no data
 ### 12/06/2024 - 9 | 008 Optional_ Debugging Warnings In Jupyter
 ### 14/06/2024 - nothing done
 ### 16/06/2024 - 9 | 009 Getting Your Data Ready_ Splitting Your Data
+### 16/06/2024 - 9 | 010 Quick Tip_ Clean, Transform, Reduce
