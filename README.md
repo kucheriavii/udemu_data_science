@@ -1,6 +1,12 @@
 ```js
      conda create --prefix ./env pandas numpy matplotlib scikit-learn
 ```  
+or
+```js
+     conda create --prefix ./env pandas numpy matplotlib scikit-learn jupyter
+     conda create --prefix .\..\data_science\udemy_tuts\third\env pandas numpy matplotlib scikit-learn jupyter
+```
+
 to create envoirmant
 
 ```js
