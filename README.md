@@ -98,3 +98,4 @@ conda activate C:\data_science\data_science\udemy_tuts\scikit_less\env
 ### scikitlearn from the begining
 
 ### 007 Typical scikit-learn Workflow
+### 009 Getting Your Data Ready_ Splitting Your Data
