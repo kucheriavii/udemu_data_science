@@ -95,3 +95,4 @@ no data
 # new enviirment
 conda activate C:\data_science\data_science\udemy_tuts\scikit_less\env
 
+### scikitlearn from the begining
