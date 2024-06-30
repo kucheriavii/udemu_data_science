@@ -91,3 +91,7 @@ no data
 ### 22/06/2024 - Nothing done
 ### 27/06/2024 - Nothing done
 ### 28/06/2024 - Nothing done
+
+# new enviirment
+conda activate C:\data_science\data_science\udemy_tuts\scikit_less\env
+
