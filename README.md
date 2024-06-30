@@ -99,3 +99,6 @@ conda activate C:\data_science\data_science\udemy_tuts\scikit_less\env
 
 ### 007 Typical scikit-learn Workflow
 ### 009 Getting Your Data Ready_ Splitting Your Data
+### 010 Quick Tip_ Clean, Transform, Reduce
+### 011 Getting Your Data Ready_ Convert Data To Numbers
+### 013 Getting Your Data Ready_ Handling Missing Values With Pandas
