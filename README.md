@@ -103,3 +103,4 @@ conda activate C:\data_science\data_science\udemy_tuts\scikit_less\env
 ### 011 Getting Your Data Ready_ Convert Data To Numbers
 ### 013 Getting Your Data Ready_ Handling Missing Values With Pandas
 ### 016 Getting Your Data Ready_ Handling Missing Values With Scikit-learn
+### nothing done
