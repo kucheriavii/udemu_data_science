@@ -105,3 +105,4 @@ conda activate C:\data_science\data_science\udemy_tuts\scikit_less\env
 ### 016 Getting Your Data Ready_ Handling Missing Values With Scikit-learn
 ### nothing done
 ### nothing done
+### 017 NEW_ Choosing The Right Model For Your Data
