@@ -109,3 +109,4 @@ conda activate C:\data_science\data_science\udemy_tuts\scikit_less\env
 ### 07/07/2024 nothing write. Ledar. 
 ### ----------------------------------- 
 ### ----------------------------------- 
+### 12/07/2024------------------------- 
