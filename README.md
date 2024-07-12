@@ -110,3 +110,4 @@ conda activate C:\data_science\data_science\udemy_tuts\scikit_less\env
 ### ----------------------------------- 
 ### ----------------------------------- 
 ### 12/07/2024------------------------- 
+### 018 NEW_ Choosing The Right Model For Your Data 2 (Regression)
