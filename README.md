@@ -114,3 +114,4 @@ conda activate C:\data_science\data_science\udemy_tuts\scikit_less\env
 ### 020 Quick Tip_ How ML Algorithms Work
 ### 12/07/2024------------------------- 
 ### 13/07/2024------------------------- 
+### 021 Choosing The Right Model For Your Data 3 (Classification)
