@@ -119,3 +119,4 @@ conda activate C:\data_science\data_science\udemy_tuts\scikit_less\env
 ### 023 Making Predictions With Our ModelS
 ### 024 predict() vs predict_proba()
 ### 025 NEW_ Making Predictions With Our Model (Regression)
+### 026 NEW_ Evaluating A Machine Learning Model (Score) Part 1
