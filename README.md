@@ -123,3 +123,4 @@ conda activate C:\data_science\data_science\udemy_tuts\scikit_less\env
 ### 027 NEW_ Evaluating A Machine Learning Model (Score) Part 2
 ### 028 Evaluating A Machine Learning Model 2 (Cross Validation)
 ### 029 Evaluating A Classification Model 1 (Accuracy)
+### 030 Evaluating A Classification Model 2 (ROC Curve)
