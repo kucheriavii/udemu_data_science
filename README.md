@@ -121,5 +121,3 @@ conda activate C:\data_science\data_science\udemy_tuts\scikit_less\env
 ### 025 NEW_ Making Predictions With Our Model (Regression)
 ### 026 NEW_ Evaluating A Machine Learning Model (Score) Part 1
 ### 027 NEW_ Evaluating A Machine Learning Model (Score) Part 2
-
-
