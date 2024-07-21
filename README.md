@@ -126,3 +126,4 @@ conda activate C:\data_science\data_science\udemy_tuts\scikit_less\env
 ### 030 Evaluating A Classification Model 2 (ROC Curve)
 ### 17/07/2024------------------------- 
 ### 20/07/2024 totaly fuckups
+### --------------
