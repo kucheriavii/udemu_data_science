@@ -128,3 +128,5 @@ conda activate C:\data_science\data_science\udemy_tuts\scikit_less\env
 ### 20/07/2024 totaly fuckups
 ### --------------
 ### 23/07/2024 nothing done
+
+###test
